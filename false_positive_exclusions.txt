@@ -6,6 +6,7 @@ GNOME VCS
 GeeksforGeeks
 Giphy
 Hubski
+Linktree
 LushStories
 PocketStars
 Realmeye
@@ -19,5 +20,6 @@ Spotify
 Weblate
 YandexMusic
 mercadolivre
+opennet
 phpRU
 svidbook
