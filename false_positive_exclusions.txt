@@ -1,6 +1,5 @@
 APClips
 Archive.org
-Audiojungle
 Code Snippet Wiki
 Fandom
 GNOME VCS
@@ -8,7 +7,6 @@ GeeksforGeeks
 Giphy
 Hubski
 LushStories
-OurDJTalk
 PocketStars
 Realmeye
 Reddit
@@ -21,6 +19,5 @@ Spotify
 Weblate
 YandexMusic
 mercadolivre
-opennet
 phpRU
 svidbook
