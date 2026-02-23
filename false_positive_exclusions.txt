@@ -6,16 +6,13 @@ GeeksforGeeks
 Giphy
 Hashnode
 Hubski
-Itch.io
 LessWrong
 LushStories
-Minecraft
 Patched
 PocketStars
 Realmeye
 Reddit
 RocketTube
-RuneScape
 Scribd
 SlideShare
 Smule
@@ -28,3 +25,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
