@@ -23,6 +23,7 @@ Spotify
 Trovo
 TryHackMe
 Weblate
+Wix
 YandexMusic
 mercadolivre
 opennet
