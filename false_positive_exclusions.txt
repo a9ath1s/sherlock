@@ -1,5 +1,6 @@
 APClips
 Archive.org
+CGTrader
 Codolio
 DeviantArt
 GNOME VCS
@@ -11,6 +12,7 @@ LessWrong
 LushStories
 Patched
 PocketStars
+Pornhub
 Rarible
 Realmeye
 Reddit
@@ -23,9 +25,8 @@ Spotify
 Trovo
 TryHackMe
 Weblate
-Wix
 YandexMusic
 mercadolivre
-opennet
 phpRU
 svidbook
+xHamster
