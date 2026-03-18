@@ -4,8 +4,6 @@ Codolio
 DeviantArt
 GeeksforGeeks
 Giphy
-GitHub
-HackerRank
 Hashnode
 Hubski
 LessWrong
@@ -20,13 +18,11 @@ SlideShare
 Smule
 Splice
 Spotify
-Strava
 Trovo
 TryHackMe
 Weblate
 YandexMusic
 mercadolivre
-nnRU
 opennet
 phpRU
 svidbook
