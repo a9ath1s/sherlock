@@ -1,6 +1,6 @@
 APClips
 Archive.org
-BoardGameGeek
+Carbonmade
 Codolio
 DeviantArt
 GeeksforGeeks
@@ -9,6 +9,7 @@ Hashnode
 Hubski
 LessWrong
 LushStories
+Minecraft
 Patched
 PocketStars
 Pornhub
@@ -26,8 +27,6 @@ TryHackMe
 Weblate
 YandexMusic
 mercadolivre
-nnRU
 opennet
 phpRU
 svidbook
-xHamster
