@@ -6,10 +6,8 @@ GeeksforGeeks
 Giphy
 Hashnode
 Hubski
-LemmyWorld
 LessWrong
 LushStories
-Minecraft
 Patched
 PocketStars
 Rarible
@@ -19,12 +17,12 @@ RocketTube
 Scribd
 SlideShare
 Smule
-SpeakerDeck
 Splice
 Spotify
 TryHackMe
 Weblate
 YandexMusic
+interpals
 mercadolivre
 opennet
 phpRU
