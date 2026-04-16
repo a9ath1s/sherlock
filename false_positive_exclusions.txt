@@ -13,7 +13,6 @@ Hubski
 LessWrong
 LushStories
 Minecraft
-OurDJTalk
 Patched
 PocketStars
 Pornhub
@@ -22,11 +21,11 @@ Realmeye
 Reddit
 RocketTube
 Scribd
-Slack
 SlideShare
 Smule
 Splice
 Spotify
+Trakt
 Trovo
 TryHackMe
 Weblate
