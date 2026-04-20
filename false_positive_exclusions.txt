@@ -3,7 +3,6 @@ APClips
 Apple Discussions
 Archive.org
 Bandcamp
-Carbonmade
 Codolio
 DeviantArt
 Discord.bio
@@ -12,11 +11,9 @@ Giphy
 Hashnode
 Hubski
 LessWrong
-LushStories
-Motherless
+Minecraft
 Patched
 PocketStars
-Pornhub
 Rarible
 Realmeye
 Reddit
@@ -37,4 +34,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
