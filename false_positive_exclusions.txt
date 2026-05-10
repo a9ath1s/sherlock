@@ -1,10 +1,11 @@
 7Cups
+APClips
 Airliners
 Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
-Chess
+BoardGameGeek
 Codolio
 DeviantArt
 Discord.bio
@@ -13,6 +14,7 @@ GeeksforGeeks
 Giphy
 Hashnode
 Hubski
+Itch.io
 LessWrong
 LushStories
 Motherless
@@ -30,6 +32,7 @@ Trovo
 TryHackMe
 Velomania
 Weblate
+Wordnik
 YandexMusic
 dailykos
 igromania
@@ -38,3 +41,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
