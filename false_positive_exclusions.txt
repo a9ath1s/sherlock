@@ -3,8 +3,8 @@ Airliners
 Apple Discussions
 Archive.org
 ArtStation
-Audiojungle
 Bandcamp
+BoardGameGeek
 Codolio
 DeviantArt
 Discord.bio
@@ -21,7 +21,6 @@ Realmeye
 Reddit
 RocketTube
 Scribd
-Slack
 SlideShare
 Smule
 Splice
