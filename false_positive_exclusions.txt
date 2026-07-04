@@ -10,6 +10,7 @@ BreachSta.rs Forum
 Codolio
 DeviantArt
 Discord.bio
+Eintracht Frankfurt Forum
 Envato Forum
 GeeksforGeeks
 Giphy
@@ -29,7 +30,6 @@ Replit.com
 RocketTube
 Scribd
 SlideShare
-Snapchat
 Splice
 Spotify
 Trovo
@@ -39,11 +39,9 @@ Weblate
 YandexMusic
 authorSTREAM
 dailykos
-fixya
 igromania
 interpals
 mercadolivre
-minds
 opennet
 phpRU
 svidbook
