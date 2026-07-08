@@ -10,12 +10,14 @@ BreachSta.rs Forum
 Codolio
 DeviantArt
 Discord.bio
+Dribbble
 Envato Forum
 GeeksforGeeks
 Giphy
 Hashnode
 Houzz
 Hubski
+Itch.io
 LessWrong
 LushStories
 Minecraft
@@ -32,6 +34,7 @@ Scribd
 SlideShare
 Splice
 Spotify
+Strava
 Trovo
 TryHackMe
 Velomania
