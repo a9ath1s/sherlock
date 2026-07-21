@@ -1,12 +1,13 @@
 7Cups
+APClips
 Airliners
 Apple Developer
 Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
-BreachSta.rs Forum
 Codolio
+DEV Community
 DeviantArt
 Discord.bio
 Envato Forum
@@ -14,13 +15,14 @@ GeeksforGeeks
 Giphy
 Hashnode
 Hubski
-Itch.io
 LessWrong
-LiveJournal
 LushStories
+Minecraft
 Odysee
+OurDJTalk
 PCGamer
 Patched
+Pornhub
 Rarible
 Realmeye
 Reddit
@@ -30,7 +32,7 @@ Scribd
 SlideShare
 Splice
 Spotify
-Trakt
+Star Citizen
 Trovo
 TryHackMe
 Velomania
@@ -44,3 +46,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
