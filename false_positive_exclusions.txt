@@ -16,11 +16,11 @@ Hashnode
 Hubski
 LessWrong
 LinkedIn
-LushStories
 Minecraft
 Odysee
 PCGamer
 Patched
+Pornhub
 Rarible
 Realmeye
 Reddit
@@ -30,6 +30,7 @@ Scribd
 SlideShare
 Splice
 Spotify
+Trakt
 Trovo
 TryHackMe
 Weblate
