@@ -5,6 +5,7 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
+Blogger
 Chatujme.cz
 Codolio
 Cracked Forum
@@ -19,9 +20,7 @@ Houzz
 Hubski
 Instapaper
 LinkedIn
-LiveJournal
 LushStories
-Minecraft
 Odysee
 OurDJTalk
 PCGamer
@@ -36,11 +35,8 @@ Scribd
 SlideShare
 Splice
 Spotify
-Star Citizen
-Trakt
 Trovo
 TryHackMe
-Velomania
 Weblate
 YandexMusic
 authorSTREAM
