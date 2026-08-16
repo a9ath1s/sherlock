@@ -1,23 +1,21 @@
 7Cups
-APClips
 Airliners
 Apple Developer
 Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
-Carbonmade
+Blogger
 Chatujme.cz
 Codolio
 Cracked Forum
+Cults3D
 DeviantArt
 Discord.bio
-Eintracht Frankfurt Forum
 Envato Forum
 F3.cool
 GeeksforGeeks
 Giphy
-Gumroad
 HackenProof (Hackers)
 Hashnode
 Houzz
@@ -41,6 +39,7 @@ Splice
 Spotify
 Trovo
 TryHackMe
+Velomania
 Weblate
 YandexMusic
 authorSTREAM
@@ -49,8 +48,6 @@ hunting
 igromania
 interpals
 mercadolivre
-nnRU
 opennet
 phpRU
 svidbook
-xHamster
