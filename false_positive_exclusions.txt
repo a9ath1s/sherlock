@@ -5,14 +5,12 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
-Blogger
 Championat
 Chatujme.cz
 Codolio
 DeviantArt
 Discord.bio
 Envato Forum
-F3.cool
 GeeksforGeeks
 Giphy
 Hashnode
@@ -23,7 +21,7 @@ LinkedIn
 LushStories
 Minecraft
 ObservableHQ
-Odysee
+OurDJTalk
 PCGamer
 Rarible
 Realmeye
@@ -34,6 +32,8 @@ Scribd
 SlideShare
 Splice
 Spotify
+Star Citizen
+Trakt
 Trovo
 TryHackMe
 Velomania
