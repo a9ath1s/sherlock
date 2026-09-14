@@ -21,7 +21,7 @@ Houzz
 Hubski
 Instapaper
 LinkedIn
-Minecraft
+LushStories
 ObservableHQ
 Odysee
 PCGamer
@@ -31,10 +31,12 @@ Realmeye
 Reddit
 ReverbNation
 RocketTube
+RuneScape
 Scribd
 SlideShare
 Splice
 Spotify
+Trakt
 Trovo
 TryHackMe
 Velomania
@@ -51,3 +53,4 @@ opennet
 phpRU
 social.tchncs.de
 svidbook
+xHamster
