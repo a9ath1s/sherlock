@@ -5,13 +5,10 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
-BoardGameGeek
 CGTrader
-Carbonmade
 Championat
 Chatujme.cz
 Codolio
-Cults3D
 DeviantArt
 Discord.bio
 Envato Forum
@@ -21,13 +18,11 @@ Hashnode
 Houzz
 Hubski
 Instapaper
-Itch.io
 LinkedIn
-Lobsters
 LushStories
+Minecraft
 ObservableHQ
 Odysee
-OurDJTalk
 PCGamer
 Rarible
 Realmeye
@@ -38,7 +33,6 @@ Scribd
 SlideShare
 Splice
 Spotify
-Star Citizen
 Trakt
 Trovo
 TryHackMe
