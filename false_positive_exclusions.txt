@@ -6,7 +6,9 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
+Blogger
 CGTrader
+Carbonmade
 Championat
 Chatujme.cz
 ChaturBate
@@ -23,6 +25,7 @@ Hubski
 Instapaper
 LinkedIn
 Linktree
+LushStories
 ObservableHQ
 Odysee
 PCGamer
@@ -36,7 +39,6 @@ Scribd
 SlideShare
 Splice
 Spotify
-Trakt
 Trovo
 TryHackMe
 Velomania
