@@ -1,14 +1,10 @@
 7Cups
-APClips
 Airliners
 Apple Developer
 Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
-Blogger
-BoardGameGeek
-CGTrader
 Championat
 Chatujme.cz
 ChaturBate
@@ -26,7 +22,7 @@ Hubski
 Instapaper
 LinkedIn
 Linktree
-LushStories
+Minecraft
 ObservableHQ
 Odysee
 PCGamer
