@@ -5,6 +5,8 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
+Blogger
+CGTrader
 Championat
 Chatujme.cz
 ChaturBate
@@ -22,7 +24,7 @@ Hubski
 Instapaper
 LinkedIn
 Linktree
-Minecraft
+LushStories
 ObservableHQ
 Odysee
 PCGamer
@@ -32,6 +34,7 @@ Realmeye
 Reddit
 ReverbNation
 RocketTube
+RuneScape
 Scribd
 SlideShare
 Splice
