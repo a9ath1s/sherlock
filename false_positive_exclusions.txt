@@ -1,9 +1,9 @@
 7Cups
-APClips
 Airliners
 Apple Developer
 Apple Discussions
 Archive.org
+BoardGameGeek
 CGTrader
 Championat
 Chatujme.cz
@@ -33,7 +33,6 @@ Trakt
 TryHackMe
 Velomania
 Weblate
-Wordnik
 YandexMusic
 authorSTREAM
 dailykos
@@ -45,4 +44,3 @@ opennet
 phpRU
 social.tchncs.de
 svidbook
-xHamster
