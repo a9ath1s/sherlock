@@ -14,6 +14,8 @@ Hashnode
 Hubski
 Instapaper
 LinkedIn
+LushStories
+Minecraft
 ObservableHQ
 Odysee
 PCGamer
@@ -26,14 +28,13 @@ Scribd
 SlideShare
 Splice
 Spotify
-Trakt
 TryHackMe
 Velomania
+Vero
 Weblate
 YandexMusic
 authorSTREAM
 dailykos
-eintracht
 fixya
 hunting
 interpals
