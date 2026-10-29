@@ -13,9 +13,8 @@ HackerNews
 Hashnode
 Hubski
 Instapaper
+Itch.io
 LinkedIn
-LushStories
-Minecraft
 ObservableHQ
 Odysee
 PCGamer
