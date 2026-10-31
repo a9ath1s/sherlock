@@ -1,9 +1,7 @@
-APClips
 Airliners
 Apple Developer
 Apple Discussions
 Archive.org
-Blogger
 Championat
 Chatujme.cz
 Codolio
@@ -43,4 +41,3 @@ opennet
 phpRU
 social.tchncs.de
 svidbook
-xHamster
