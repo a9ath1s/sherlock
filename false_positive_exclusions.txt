@@ -1,6 +1,8 @@
 Airliners
 Apple Developer
+Apple Discussions
 Archive.org
+Blogger
 Championat
 Chatujme.cz
 Codolio
@@ -12,9 +14,9 @@ HackerNews
 Hashnode
 Hubski
 Instapaper
+Itch.io
 LinkedIn
 LushStories
-Minecraft
 ObservableHQ
 Odysee
 PCGamer
