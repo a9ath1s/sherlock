@@ -14,12 +14,12 @@ HackerNews
 Hashnode
 Hubski
 Instapaper
-Itch.io
 LinkedIn
 LushStories
 ObservableHQ
 Odysee
 PCGamer
+Patched
 Rarible
 Realmeye
 Reddit
@@ -29,6 +29,7 @@ Scribd
 SlideShare
 Splice
 Spotify
+Trakt
 TryHackMe
 Velomania
 Vero
@@ -43,4 +44,3 @@ mercadolivre
 opennet
 phpRU
 social.tchncs.de
-svidbook
