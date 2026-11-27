@@ -1,7 +1,9 @@
+APClips
 Airliners
 Apple Developer
 Apple Discussions
 Archive.org
+Audiojungle
 Blogger
 Chatujme.cz
 Codolio
@@ -14,9 +16,12 @@ HackerNews
 Hashnode
 Hubski
 Instapaper
+Itch.io
 LinkedIn
 Linktree
+LiveJournal
 LushStories
+Minecraft
 ObservableHQ
 Odysee
 PCGamer
@@ -45,3 +50,4 @@ mercadolivre
 opennet
 phpRU
 social.tchncs.de
+xHamster
